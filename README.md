@@ -24,12 +24,3 @@
 <p align="center">
   <i>“To live is to be known and <b>remembered</b> by others.”</i>
 </p>
-
-    <path d="M820 542 C880 526 950 506 1010 492" fill="none" stroke="#3f4144" stroke-width="5"/>
-    <rect x="1006" y="480" width="4" height="62" fill="#4a3b2c" opacity=".6"/>
-
-    <!-- BUTIRAN & BINGKAI -->
-    <rect width="1010" height="542" filter="url(#grain)" opacity=".18"/>
-    <rect width="1010" height="542" rx="26" fill="none" stroke="#fff" stroke-opacity=".25"/>
-  </g>
-</svg>
