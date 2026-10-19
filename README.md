@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Software developer.</h1>
 
-<!--
-**fattaoh/fattaoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Muhammad Fattah Al Hamdani</b><br />
+  Student · Building <b>real projects</b> · Looking for an <b>internship</b>
+</p>
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">Skills</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,laravel,php,dart,flutter&theme=dark&perline=5" alt="JavaScript, Laravel, PHP, Dart, Flutter" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.instagram.com/lowcortisoll_">www.instagram.com/lowcortisoll_ ↗</a>
+</p>
+
+<br />
+
+<p align="center">
+  <i>“To live is to be known and <b>remembered</b> by others.”</i>
+</p>
